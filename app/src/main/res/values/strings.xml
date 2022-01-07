@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Gonzaga_MyFirstApp</string>
+    <string name="newString1">Welcome to McDonald\'s!</string>
+    <string name="button">Press for 1 free fry</string>
 </resources>
